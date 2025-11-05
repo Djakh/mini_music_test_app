@@ -1,0 +1,50 @@
+[
+  {
+    "id": "t001",
+    "title": "Buffalo Bill",
+    "artist": "Eminem",
+    "duration": 243,
+    "audioUrl": "assets/audio/Eminem_Buffalo_Bill.mp3",
+    "coverUrl": "assets/covers/eminem.png"
+  },
+  {
+    "id": "t002",
+    "title": "We Are Young",
+    "artist": "Fun. feat. Janelle Monáe",
+    "duration": 256,
+    "audioUrl": "assets/audio/Fun_feat._Janelle_Mon_e_-_We_Are_Young.mp3",
+    "coverUrl": "assets/covers/music1.png"
+  },
+  {
+    "id": "t003",
+    "title": "Fit For a King",
+    "artist": "Josh Woodward",
+    "duration": 230,
+    "audioUrl": "assets/audio/Josh_Woodward_-_Fit_For_a_King_(mp3.pm).mp3",
+    "coverUrl": "assets/covers/music2.jpg"
+  },
+  {
+    "id": "t004",
+    "title": "Half-Life",
+    "artist": "Josh Woodward",
+    "duration": 222,
+    "audioUrl": "assets/audio/Josh_Woodward_-_Half-Life_(mp3.pm).mp3",
+    "coverUrl": "assets/covers/raindrops.png"
+  },
+  {
+    "id": "t005",
+    "title": "The Best Song",
+    "artist": "Josh Woodward",
+    "duration": 195,
+    "audioUrl": "assets/audio/JoshWoodward-TheBestSong.mp3",
+    "coverUrl": "assets/covers/sunrise.png"
+  },
+  {
+    "id": "t006",
+    "title": "Go Robot",
+    "artist": "Red Hot Chili Peppers",
+    "duration": 260,
+    "audioUrl": "assets/audio/Red_Hot_Chili_Peppers_-_Go_Robot_(mp3.pm).mp3",
+    "coverUrl": "assets/covers/night_drive.png"
+  }
+]
